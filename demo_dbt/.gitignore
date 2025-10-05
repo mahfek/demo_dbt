@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# dbt compiled and log folders
+dbt_modules/
+target/
+logs/
